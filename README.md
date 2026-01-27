@@ -39,12 +39,15 @@ Tenho interesse em aprender novas tecnologias, boas práticas de programação e
 ## 🛠️ Tecnologias e Ferramentas
 
 - Linguagens:   
-  - Python 
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
 
-- Tecnologias:  
-  - Node.js  
+- Tecnologias:    
   - Git & GitHub  
-  - SQL  
+  - SQL
 
 - Ferramentas:  
   - Visual Studio Code 
