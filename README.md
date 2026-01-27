@@ -46,9 +46,8 @@ Tenho interesse em aprender novas tecnologias, boas práticas de programação e
   - SQL
 
 - Tecnologias:    
-  - Git & GitHub  
-  - SQL
-
+  - Git & GitHub
+    
 - Ferramentas:  
   - Visual Studio Code 
 
@@ -61,6 +60,7 @@ Atualmente estou desenvolvendo projetos acadêmicos e pessoais, que em breve est
 
 > Sistema de controle de Vendas para FTO Informática
 > Site para Agência de marketing
+> Site para minha propria empresa
 
 ---
 
@@ -74,7 +74,7 @@ Busco oportunidades para **aprender na prática**, evoluir tecnicamente e contri
 
 - GitHub: [https://github.com/Kapimkk](https://github.com/Kapimkk)
 - E-mail: cappellifelipe@gmail.com
-
+  
 ---
 
 ⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!*
