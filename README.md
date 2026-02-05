@@ -58,9 +58,9 @@ Tenho interesse em aprender novas tecnologias, boas práticas de programação e
 🔹 **Em construção**  
 Atualmente estou desenvolvendo projetos acadêmicos e pessoais, que em breve estarão disponíveis neste GitHub.
 
-> Sistema de controle de Vendas para FTO Informática
-> Site para Agência de marketing
-> Site para minha propria empresa
+ - Sistema de controle de Vendas para FTO Informática
+ - Site para Agência de marketing
+ - Site para minha propria empresa
 
 ---
 
