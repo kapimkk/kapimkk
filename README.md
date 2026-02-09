@@ -1,17 +1,4 @@
-# 👨‍💻 Felipe Cappelli (Kapimkk)
-
-🎓 Estudante de Ciência da Computação  
-📍 Curitiba – PR, Brasil  
-
----
-
-## 🚀 Sobre mim
-
-Meu nome é **Felipe Cappelli**, tenho **18 anos**, sou natural de **Curitiba/PR**.
-
-Atualmente estou cursando **Ciência da Computação** e me encontro no **2º período**.
-
-Tenho interesse em aprender novas tecnologias, boas práticas de programação e em evoluir constantemente como desenvolvedor.
+# 👨‍💻 Kapimkk
 
 ---
 
