@@ -24,9 +24,6 @@
 
 - Tecnologias:    
   - Git & GitHub
-    
-- Ferramentas:  
-  - Visual Studio Code 
 
 ---
 
