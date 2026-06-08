@@ -17,8 +17,7 @@
 
 - Linguagens:   
   - Python
-  - HTML
-  - CSS
+  - C#
   - JavaScript
   - SQL
 
