@@ -6,8 +6,6 @@
 
 Estudante de Ciência da Computação, com experiência no desenvolvimento de soluções tecnológicas, automação de processos corporativos, integração de sistemas e bancos de dados.
 
-Atuo com foco na construção de aplicações eficientes, escaláveis e de fácil manutenção, aplicando boas práticas de desenvolvimento, organização de código e arquitetura de software.
-
 Tenho interesse especial em **desenvolvimento back-end, automações, APIs, inteligência artificial e engenharia de software**.
 
 <br>
@@ -94,7 +92,6 @@ Experiência em desenvolvimento e automação de soluções voltadas à otimiza�
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🤖 Inteligência Artificial e Automação
 
@@ -117,7 +114,7 @@ Experiência em desenvolvimento e automação de soluções voltadas à otimiza�
 
 ## 📚 Formação Acadêmica
 
-🎓 ** Cursando - Bacharelado em Ciência da Computação**
+🎓 *Cursando - Bacharelado em Ciência da Computação*
 
 Centro Universitário Campos de Andrade — Uniandrade 
 
